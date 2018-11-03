@@ -10,4 +10,5 @@ What is the forecast of new projects and funders by category for the upcoming ye
 Average pledge cost per category
 Average total number of pledges
 
-Launch date correlation to percentage of goal
+Launch date correlation to percentage of goal (median first ie: percentage pass fail)
+(Ie months)

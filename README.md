@@ -10,9 +10,10 @@ How can this data help individuals and startups that wish to launch their idea o
 Are there certain types of media more prone to success on the platform?
 What is the forecast of new projects and funders by category for the upcoming year?
 
-
-Average pledge cost per category
-Average total number of pledges
+Analysis of which category is most popular/rich:
+(aka what is the most popular and who is their demographic)
+	Average pledge cost by category 
+	Average total number of pledges by category
 
 Launch date correlation to percentage of goal (median first ie: percentage pass fail)
-(Ie months)
+(ie months)
